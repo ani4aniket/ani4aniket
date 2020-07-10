@@ -9,14 +9,13 @@
 <a href="https://instagram/ani4aniket"><img height="30" src="https://raw.githubusercontent.com/ani4aniket/ani4aniket/master/icon/instagram.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/ani4aniket"><img height="30" src="https://raw.githubusercontent.com/ani4aniket/ani4aniket/master/icon/by-me-a-coffee.png"></a>
 </p>
-
-# 👋
-
-Another JavaScript developer in the town, munching the flavour of code. A open-source contributor skilled with React, Redux, Recoil, Next, React Native, Node.js, GraphQL and other JS frameworks and libraries.
- 
- ---
-
-<p align='left'>
+<p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ani4aniket.visitor-badge">
- <p/>
+<p/>
+<h1 align='center'>
+ 👋
+</h1>
+
+Another JavaScript developer in the town, munching the flavour of code. An open-source contributor skilled with React, Redux, Recoil, Next, React Native, Node.js, GraphQL and other JS frameworks and libraries.
+
 
