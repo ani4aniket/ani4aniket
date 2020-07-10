@@ -12,7 +12,7 @@
 
 Hey there 👋,
 
-Another JavaScript developer in the town, munching the flavour of code. A open-source contributor, a freelancer skilled with MERN, Redux, React Native, GraphQL and other JS frameworks and libraries.
+Another JavaScript developer in the town, munching the flavour of code. A open-source contributor skilled with React, Redux, Recoil, Next, React Native, Node.js, GraphQL and other JS frameworks and libraries.
  
  ---
 
