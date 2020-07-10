@@ -12,10 +12,9 @@
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ani4aniket.visitor-badge">
 <p/>
 <h1 align='center'>
+  👋
   <br />
   <a href="https://www.buymeacoffee.com/ani4aniket" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-  <br/>
- 👋
 </h1>
 
 Another JavaScript developer in the town, munching the flavour of code. An open-source contributor skilled with React, Redux, Recoil, Next, React Native, Node.js, GraphQL and other JS frameworks and libraries.
