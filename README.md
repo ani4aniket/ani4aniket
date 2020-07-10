@@ -24,6 +24,6 @@
 Another JavaScript developer in the town, munching the flavour of code. An open-source contributor skilled with React, Redux, Recoil, Next, React Native, Node.js, GraphQL and other JS frameworks and libraries.
 <br/>
 <p align="left">
-  <a class="github-button" href="https://github.com/ani4aniket/ani4aniket" data-icon="octicon-repo-template" data-size="large" aria-label="Use this template ani4aniket/ani4aniket on GitHub">Use this template</a>
+  <a class="github-button" href="https://github.com/ani4aniket/ani4aniket/generate" data-icon="octicon-repo-template" data-size="large" aria-label="Use this template ani4aniket/ani4aniket on GitHub">Use this template</a>
 </p>
 
