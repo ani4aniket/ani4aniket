@@ -1,8 +1,8 @@
 <p align="center">                                                                                                                  
-  <img src="https://raw.githubusercontent.com/ani4aniket/ani4aniket/master/icon/Cover.png">
+  <img src="https://i.imgur.com/tbzEwSy.png">
   <br/>
   <br/>
-  <a href="https://ianiket.live"><img src="https://raw.githubusercontent.com/ani4aniket/ani4aniket/master/icon/Logo.png"></a>
+  <a href="https://aniketkumar.tech"><img src="https://raw.githubusercontent.com/ani4aniket/ani4aniket/master/icon/Logo.png"></a>
   <br/>  
 </p>
 <p align='center'>
