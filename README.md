@@ -17,12 +17,6 @@
 <!--   <br/> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ani4aniket&theme=dark&hide_langs_below=1" /> -->
 </p>
-<h1 align='center'>
-  👋
-  <br />
-  <br />
-  <a href="https://www.buymeacoffee.com/ani4aniket" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</h1>
 
 Another JavaScript developer in the town, munching the flavour of code. An open-source contributor skilled with React, Redux, Recoil, Next, React Native, Node.js, GraphQL and other JS frameworks and libraries.
 <br/>
